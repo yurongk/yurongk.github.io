@@ -49,7 +49,6 @@ mermaid: true
 
 [Google](https://www.google.com)
 
-[本地链接](./localfile.md)
 
 ## 6. 图片
 
