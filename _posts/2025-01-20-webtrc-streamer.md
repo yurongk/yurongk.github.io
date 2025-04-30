@@ -109,3 +109,6 @@ docker exec -it webrtc-streamer /bin/bash
     }
 }
 ```
+
+
+攝像機配置H.264
