@@ -71,6 +71,9 @@ docker cp ./config.json webrtc-streamer:/app/config.json
 ```bash
 docker run -d --name webrtc-streamer \ -v /path/to/config.json:/app/config.json \ mpromonet/webrtc-streamer
 
+
+docker run -itd  --restart=always  -p 8000:8000  --name webrtc-streamer  mpromonet/webrtc-streamer
+
 ```
 
 
